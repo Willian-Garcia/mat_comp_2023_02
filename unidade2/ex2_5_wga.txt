@@ -1,0 +1,18 @@
+2.5. Efetue uma definição recursiva de uma sequência numérica cujos elementos são obtidos multiplicando-se, a partir do segundo elemento, o elemento anterior por 3. Considere que o primeiro elemento vale 2.
+
+A1 = 2
+An = 3*A(n-1)
+
+neste caso a expressão será
+
+A1 = 2
+A2 = 3*2 = 6
+A3 = 3*6 = 18
+A4 = 3*18 = 54
+A5 = 3*54 = 162
+        .
+        .
+        .
+An = 3*A(n-1) = An
+
+Sequência_numérica_wga = {2,6,18,54,162,...}

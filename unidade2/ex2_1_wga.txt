@@ -1,0 +1,10 @@
+//2.1. Efetue uma definição, através de enumeração, de todos os membros da sua família,considerando apenas parentesco direto de pais, irmãos e filhos.
+
+enumeracao_familia_wga:
+
+    Pai = José Ernandes de Araujo
+    Mãe = Roseni de J. Garcia
+    Filho = Willian Garcia de Araujo
+
+fim_enumeracao_familia_wga
+

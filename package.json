@@ -1,0 +1,24 @@
+{
+  "name": "exercicio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "seis_a": "ts-node ./unidade2/ex2_6_a_wga",
+    "seis_b": "ts-node ./unidade2/ex2_6_b_wga",
+    "seis_c": "ts-node ./unidade2/ex2_6_c_wga",
+    "seis_d": "ts-node ./unidade2/ex2_6_d_wga",
+    "sete": "ts-node ./unidade2/ex2_7_wga",
+    "oito": "ts-node ./unidade2/ex2_8_wga",
+    "nove": "ts-node ./unidade2/ex2_9_wga",
+    "dez": "ts-node ./unidade2/ex2_10_wga"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}

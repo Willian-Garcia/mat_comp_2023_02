@@ -1,0 +1,13 @@
+2.3. Efetue uma definição, através de enumeração, de números primos. Um número é dito primo se só possui como divisor ele mesmo e o número um.
+
+enumeracao_numeros_primos_wga:
+
+    valor1 = 2
+    valor2 = 3
+    valor3 = 5
+    valor4 = 7
+    valor5 = 11
+    valor6 = 13
+    valor7 = 17
+
+fim_enumeracao_numeros_primos_wga
