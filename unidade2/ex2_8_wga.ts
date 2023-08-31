@@ -16,7 +16,7 @@ function soma_recursiva_wga(n: number): number {
   if (n == 1) {
     return 1;
   } else {
-    return 2 * soma_recursiva_wga(n - 1);
+    return 2 + soma_recursiva_wga(n - 1);
   }
 }
 
