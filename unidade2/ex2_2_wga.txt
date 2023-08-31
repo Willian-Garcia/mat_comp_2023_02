@@ -1,9 +1,3 @@
 //2.2. Efetue uma definição, através de enumeração, de cursos existentes na instituição de ensino em que você está estudando.
 
-enumeracao_cursos_instituição_wga:
-
-    curso1 = Meio Ambiente e Recursos Hídricos
-    curso2 = Geoprocessamento
-    curso3 = Desenvolvimento de Software Multiplataforma
-
-fim_enumeracao_cursos_instituição_wga;
+cursos ≝ Meio Ambiente e Recursos Hídricos, Geoprocessamento, Desenvolvimento de Software Multiplataforma.
